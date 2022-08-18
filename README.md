@@ -10,3 +10,15 @@ La tarea es predecir si un vuelo determinado se retrasará, dada la información
 6.Time (Duracion del vuelo)
 7.Length (Distancia recorrida)
 8.Delay (Si llego tarde o no)
+
+Las variables categoricas son:
+-Airline
+-Flight
+-Airport From
+-Airport To
+-DayOfWeek
+-Delay
+
+Las variables numericas son:
+-Time
+-Length
