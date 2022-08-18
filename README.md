@@ -1,6 +1,6 @@
 # Airlines
 
-El proyecto es se trata de analizar las variables para determinar cuales son los motivos de los delays.
+La tarea es predecir si un vuelo determinado se retrasará, dada la información de la salida programada.
 
 1.Airline (Nombre de la aerolinea)
 2.Flight (Numero de vuelo)
