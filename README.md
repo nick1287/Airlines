@@ -12,12 +12,12 @@ La tarea es predecir si un vuelo determinado se retrasará, dada la información
 8.Delay (Si llego tarde o no)
 
 Las variables categoricas son:
--Airline
--Flight
--Airport From
--Airport To
--DayOfWeek
--Delay
+- Airline
+- Flight
+- Airport From
+- Airport To
+- DayOfWeek
+- Delay
 
 Airline: Se aplicara el metodo "One-Hot Encoding" para poder realizar las posteriores analisis.
 Fligth: En principio se tomara como variable debil dado que es el nombre del vuelo, no deberia afectar en la duracion.
