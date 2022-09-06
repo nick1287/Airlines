@@ -29,3 +29,10 @@ Descripcion de variables:
 Las variables numericas son:
 - Time
 - Length
+
+El equipo esta integrado por:
+- Nicolas Duran
+- Beltran Lacroze
+- Javier Oro
+- Lucas Misrahi
+
