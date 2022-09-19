@@ -12,7 +12,7 @@ La tarea es predecir si un vuelo determinado se retrasará, dada la información
 
 ![Flight_Delay-200x100](https://user-images.githubusercontent.com/111400931/191128895-632dd179-f4cb-4578-8723-04d0fb5577f8.png)
 
-Las variables en su mayoria son categoricas, para considerarlas en nuestro estudio se realizara un metodo para consolidar binariamente cada una de las categorias de cada variable categorica, haciendo un top 20 como max, logrando asi considerar todas las variables. Esto metodo de top 20 se realizara para no generar un alto rendimiento de los procesadores y facilitar la realizacion del estudio computacional.
+Las variables en su mayoria son categoricas, para considerarlas en nuestro estudio se realizara el metodo de "One-Hot Encoding" para cada una de las categorias de cada variable categorica, haciendo un top 20 como max, logrando asi considerar todas las variables. Esto metodo de top 20 se realizara para no generar un alto rendimiento de los procesadores y facilitar la realizacion del estudio computacional.
 
 Se buscara a travez de este estudio:
 + Si los aeropuertos juegan un papel importante en las demoras.
