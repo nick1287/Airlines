@@ -16,7 +16,7 @@ Las variables en su mayoria son categoricas, para considerarlas en nuestro estud
 
 Se buscara a travez de este estudio:
 + Si los aeropuertos juegan un papel importante en las demoras.
-+ Si depende mas de la duracion y largo del vuelo.
++ Si dependera mas de la duracion y largo del vuelo.
 + Que papel juegan las aerolineas.
 + Si dependera del dia de la semana.
 
