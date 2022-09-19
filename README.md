@@ -10,8 +10,7 @@ El equipo esta integrado por:
 
 La tarea es predecir si un vuelo determinado se retrasará, dada la información de la salida programada.
 
-![Flight_Delay-1536x864](https://user-images.githubusercontent.com/111400931/191133538-1365c402-54dd-4701-9b95-986456af27cd.png)
-
+![Flight_Delay-1536x864](https://user-images.githubusercontent.com/111400931/191133594-70f6c45a-40a8-47c3-9c51-cd6e8d04e241.jpg)
 
 Las variables en su mayoria son categoricas, para considerarlas en nuestro estudio se realizara el metodo de "One-Hot Encoding" para cada una de las categorias de cada variable categorica, haciendo un top 20 como max, logrando asi considerar todas las variables. Esto metodo de top 20 se realizara para no generar un alto rendimiento de los procesadores y facilitar la realizacion del estudio computacional.
 
