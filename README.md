@@ -2,7 +2,7 @@
 
 La tarea es predecir si un vuelo determinado se retrasará, dada la información de la salida programada.
 
-![Flight_Delay-1536x864](https://user-images.githubusercontent.com/111400931/191128895-632dd179-f4cb-4578-8723-04d0fb5577f8.png)
+![Flight_Delay-900x500](https://user-images.githubusercontent.com/111400931/191128895-632dd179-f4cb-4578-8723-04d0fb5577f8.png)
 
 1. Airline (Nombre de la aerolinea)
 2. Flight (Numero de vuelo)
