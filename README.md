@@ -1,8 +1,27 @@
-# Airlines
+# Airlines Proyecto Final 
+# Coder House
+
+El equipo esta integrado por:
+- Nicolas Duran
+- Beltran Lacroze
+- Javier Oro
+- Lucas Misrahi
+
+# Resumen
 
 La tarea es predecir si un vuelo determinado se retrasará, dada la información de la salida programada.
 
 ![Flight_Delay-200x100](https://user-images.githubusercontent.com/111400931/191128895-632dd179-f4cb-4578-8723-04d0fb5577f8.png)
+
+Las variables en su mayoria son categoricas, para considerarlas en nuestro estudio se realizara un metodo para consolidar binariamente cada una de las categorias de cada variable categorica, haciendo un top 20 como max, logrando asi considerar todas las variables. Esto metodo de top 20 se realizara para no generar un alto rendimiento de los procesadores y facilitar la realizacion del estudio computacional.
+
+Se buscara a travez de este estudio:
++ Si los aeropuertos juegan un papel importante en las demoras.
++ Si depende mas de la duracion y largo del vuelo.
++ Que papel juegan las aerolineas.
++ Si dependera del dia de la semana.
+
+Permitira identificar al cliente por que aerolinea optar, y cuales son los aeropuertos de origen y destino de debera tener cuidado para programar mejor sus tiempos.
 
 1. Airline (Nombre de la aerolinea)
 2. Flight (Numero de vuelo)
@@ -31,10 +50,3 @@ Descripcion de variables:
 Las variables numericas son:
 - Time
 - Length
-
-El equipo esta integrado por:
-- Nicolas Duran
-- Beltran Lacroze
-- Javier Oro
-- Lucas Misrahi
-
