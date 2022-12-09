@@ -1,10 +1,8 @@
-# Airlines + Proyecto Final + Coder House
+# Airlines + Proyecto Final 
 
-El equipo esta integrado por:
+
 - Nicolas Duran
-- Beltran Lacroze
-- Javier Oro
-- Lucas Misrahi
+
 
 DB:
 https://www.kaggle.com/code/jominjae/airline-delay-prediction-logistic-decisiontree/data
